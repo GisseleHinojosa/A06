@@ -6,8 +6,12 @@ a:hover, a:focus {
     font-style: italic;
 }
 
-footer p {
+footer {
     text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
 .shadow {
